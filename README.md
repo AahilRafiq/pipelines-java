@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/aahilrafiq136/aahilrafiq136/_apis/build/status%2FAahilRafiq.pipelines-java?branchName=main)](https://dev.azure.com/aahilrafiq136/aahilrafiq136/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
